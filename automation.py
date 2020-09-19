@@ -19,5 +19,5 @@ user_message.send_keys('I am extra cool')
 
 # show_msg_button.click()
 
-chrome_browser.close()
+# chrome_browser.close()
 chrome_browser.close()  # or quit()
